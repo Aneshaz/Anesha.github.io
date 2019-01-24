@@ -1,6 +1,6 @@
 module.exports = {
-  dest: '../../jasonandjay.github.com/study',
-  base: '/study/',
+  dest: 'docs',
+  base: '/',
   markdown: {
     toc: { includeLevel: [2, 3] }
   },
